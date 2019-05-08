@@ -1,1 +1,5 @@
 src/creds.h
+.pioenvs
+.piolibdeps
+.gcc-flags.json
+.clang_complete
