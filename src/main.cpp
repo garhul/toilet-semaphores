@@ -5,7 +5,6 @@
 #include <WiFiClient.h>
 #include <MQTT.h>
 
-
 const byte interruptPin = 13;
 volatile byte interruptCounter = 0;
 int numberOfInterrupts = 0;
